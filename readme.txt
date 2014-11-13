@@ -41,3 +41,14 @@ touch client/templates/posts/post_page.html
 
 touch client/templates/application/not_found.html
 touch client/templates/application/layout.js 
+
+meteor add ian:accounts-ui-bootstrap-3
+meteor add accounts-password
+
+touch client/templates/includes/header.html
+
+touch client/templates/posts/post_submit.html
+touch client/templates/posts/post_submit.js
+
+meteor remove insecure
+

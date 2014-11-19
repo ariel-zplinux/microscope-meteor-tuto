@@ -53,3 +53,8 @@ touch client/templates/posts/post_submit.js
 meteor remove insecure
 
 touch client/templates/includes/access_denied.html  
+
+touch client/templates/posts/post_item.html
+touch client/templates/posts/post_item.js
+
+touch lib/permissions.js

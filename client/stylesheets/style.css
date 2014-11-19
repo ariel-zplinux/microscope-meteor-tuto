@@ -72,11 +72,14 @@ body {
         color: #aaaaaa; }
     .post .post-content p {
       margin: 0; }
+  .post .edit {
+    display: block;
+    float: right;
+    margin-top: 7px; }
   .post .discuss {
     display: block;
     float: right;
     margin-top: 7px; }
-
 .comments {
   list-style-type: none;
   margin: 0; }
